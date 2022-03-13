@@ -1,12 +1,19 @@
+<Add>
+    <Mul>
+        <Sin>
+            <Lit>55</Lit>
+        </Sin>
+        <Sin>
+            <Lit>55</Lit>
+        </Sin>
+    </Mul>
 
-<Expr>
-
-    <Add>
-
-        <Lit v=1>
-
-        <Lit v=2>
-    
-    </Add>
-    
-</Expr>
+    <Mul>
+        <Cos>
+            <Lit>55</Lit>
+        </Cos>
+        <Cos>
+            <Lit>55</Lit>
+        </Cos>
+    </Mul>
+</Add>
